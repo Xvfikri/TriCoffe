@@ -4,7 +4,7 @@
 - Gari iriana  |   6706223038  |  UI/UX Designer
 - Rimba Manggala Putra   |   6706223032  |  Backend Developer
 
-Setelah Git Clone, jalankan command dibawah untuk mennjalankan aplikasi tri coffe
+Setelah Git Clone, jalankan command dibawah untuk mennjalankan aplikasi tri coffe dan 
 Copy .env.example file to .env and edit database credentials there
 
 - ```bash
