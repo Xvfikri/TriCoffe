@@ -1,8 +1,8 @@
 # TriCoffe
 
 - Muhamad Alfikri Syahputra  |  6706220017
-- Gari iriana  |
-- Rimba Manggala Putra   |
+- Gari iriana  |   6706223038
+- Rimba Manggala Putra   |   6706223032
 
 Setelah Git Clone, jalankan command dibawah untuk mennjalankan aplikasi tri coffe
 Copy .env.example file to .env and edit database credentials there
