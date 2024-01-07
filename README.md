@@ -10,8 +10,6 @@ Copy .env.example file to .env and edit database credentials there
 - ```bash
   cd project-name
 ```
-
-
     composer install
 ```
 
